@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+
+.MenuContainer {
+    width: 752px;
+    height: 282px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 16px;
+    display: inline-flex;
+}
+
+.FeaturedDietMenu {
+    color: #191c32;
+    font-size: 20px;
+    font-family: Manrope;
+    font-weight: 600;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.MenuCards {
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 30px;
+    display: inline-flex;
+}
+
+.Breakfast1 {
+    width: 361px;
+    height: 240px;
+    position: relative;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.Topheading {
+    padding: 9px 20px;
+    left: 20px;
+    top: 14px;
+    position: absolute;
+    background: #F4F5F5;
+    border-radius: 10px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 152px;
+    display: inline-flex
+}
+
+.Breakfasttext {
+    color: #409fff;
+    font-size: 16px;
+    font-family: Manrope;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+
+}
+
+.time {
+    color: #0a0a0a;
+    font-size: 13px;
+    font-family: Manrope;
+    font-weight: 600;
+    line-height: 16px;
+    word-wrap: break-word;
+}
+
+.Image2 {
+    width: 65px;
+    height: 64px;
+    left: 20px;
+    top: 67px;
+    position: absolute;
+    border-radius: 100px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.Image2-img {
+    width: 131px;
+    height: 89px
+}
+
+.Image1 {
+    width: 65px;
+    height: 64px;
+    left: 20px;
+    top: 151px;
+    position: absolute;
+    border-radius: 100px;
+    overflow: hidden;
+}
+
+.Image1-img {
+    width: 131px;
+    height: 89px;
+    left: -33px;
+    top: -12px;
+    position: absolute;
+}
+
+.profile-img {
+    width: 111px;
+    height: 75px;
+    left: -5px;
+    top: -6px;
+    position: absolute;
+}
+
+.AvocadoSalad {
+    left: 100px;
+    top: 67px;
+    position: absolute;
+    color: #191c32;
+    font-size: 18px;
+    font-family: Manrope;
+    font-weight: 600;
+    line-height: 26px;
+    word-wrap: break-word;
+}
+
+.Blueberry {
+    left: 100px;
+    top: 151px;
+    position: absolute;
+    color: #191c32;
+    font-size: 18px;
+    font-family: Manrope;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.Rectangleblue1 {
+    width: 47px;
+    height: 6px;
+    left: 100px;
+    top: 120px;
+    position: absolute;
+    background: #409fff;
+    border-radius: 10px;
+}
+
+.Rectangleblue2 {
+    width: 47px;
+    height: 6px;
+    left: 100px;
+    top: 204px;
+    position: absolute;
+    background: #409fff;
+    border-radius: 10px;
+}
+
+.Rectangleorange1 {
+    width: 90px;
+    height: 6px;
+    left: 151px;
+    top: 120px;
+    position: absolute;
+    background: #ff844b;
+    border-radius: 10px;
+}
+
+.Rectangleorange2 {
+    width: 90px;
+    height: 6px;
+    left: 151px;
+    top: 204px;
+    position: absolute;
+    background: #FF844B;
+    border-radius: 10px
+}
+
+.Rectanglered1 {
+    width: 61px;
+    height: 6px;
+    left: 245px;
+    top: 120px;
+    position: absolute;
+    background: #f85c7f;
+    border-radius: 10px;
+}
+
+.Rectanglered2 {
+    width: 61px;
+    height: 6px;
+    left: 245px;
+    top: 204px;
+    position: absolute;
+    background: #f85c7f;
+    border-radius: 10px;
+}
+
+.Carbsdiv {
+    left: 100px;
+    top: 99px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4px;
+    display: inline-flex;
+}
+
+.Ellipse36 {
+    width: 4px;
+    height: 4px;
+    background: #409fff;
+    border-radius: 9999px;
+}
+
+.Carbstext {
+    color: #9dacc1;
+    font-size: 12px;
+    font-family: Manrope;
+    font-weight: 400;
+    line-height: 12px;
+    word-wrap: break-word;
+}
+
+.Carbsdiv2 {
+    left: 100px;
+    top: 182px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4px;
+    display: inline-flex;
+}
+
+.Protein {
+    left: 174px;
+    top: 99px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3px;
+    display: inline-flex;
+}
+
+.Protein2 {
+    left: 174px;
+    top: 182px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3px;
+    display: inline-flex;
+}
+
+.Ellipse37 {
+    width: 4px;
+    height: 4px;
+    background: #ff844b;
+    border-radius: 9999px;
+}
+
+.Proteintext {
+    color: #9dacc1;
+    font-size: 12px;
+    font-family: Manrope;
+    font-weight: 400;
+    line-height: 12px;
+    word-wrap: break-word;
+}
+
+.Fatratio {
+    left: 261px;
+    top: 99px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3px;
+    display: inline-flex;
+}
+
+.Ellipse38 {
+    width: 4px;
+    height: 4px;
+    background: #f85c7f;
+    border-radius: 9999px;
+}
+
+.Fattext {
+    color: #9dacc1;
+    font-size: 12px;
+    font-family: Manrope;
+    font-weight: 400;
+    line-height: 12px;
+    word-wrap: break-word;
+}
+
+.Fatratio2 {
+    left: 261px;
+    top: 182px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3px;
+    display: inline-flex;
+}
+
+.Lunch {
+    width: 361px;
+    height: 240px;
+    position: relative;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+}

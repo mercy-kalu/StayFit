@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
 #sidenav {
     background: #ffffff;
 
@@ -17,4 +19,29 @@
 .navText {
     color: #191C32;
     font-weight: 500;
+}
+
+#topNav {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.running {
+    display: flex;
+    align-items: center;
+
+}
+
+
+#running-img {
+    padding-right: 18em;
+
+    display: flex;
+    /* display: flex; */
+}
+
+.running-text h3 {
+    margin-bottom: auto;
 }

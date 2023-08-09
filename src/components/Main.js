@@ -14,16 +14,7 @@ import Trainer from "./Trainer";
 
 function Main(props) {
  return (
-  //  <div id="main_page">
-  //   <Row>
-  //    <Col span={4} push={20}>
-  //     col-6 col-pull-18
-  //    </Col>
-  //    <Col span={20} pull={4}>
-  //     <div className="hero"></div>
-  //    </Col>
-  //   </Row>
-  //  </div>
+
   <div id="main_page">
    <Row>
     <Col flex="1 1 200px">
